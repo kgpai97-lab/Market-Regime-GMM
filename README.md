@@ -347,6 +347,6 @@ Potential areas for extension:
 ---
 
 ## Contact
-For questions or collaboration: isaiahdnick@gmail.com
+For questions or collaboration: gpai2@ncsu.edu | pai.gaurav@yahoo.com
 
 ---
